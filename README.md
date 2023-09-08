@@ -4,11 +4,7 @@ Este repositório contém um formulário de cadastro em HTML e JavaScript. O for
 
 ## Como usar o formulário
 
-1. Clone este repositório em sua máquina local usando o seguinte comando:
-
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
+1. Clone este repositório em sua máquina local usando o seguinte comando
 
 2. Abra o arquivo `index.html` em seu navegador para acessar o formulário de cadastro.
 
